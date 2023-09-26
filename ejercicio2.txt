@@ -1,3 +1,3 @@
-Para clonar el archivo local al remoto utilizo la opción de
+Para clonar el archivo local al remoto utilizo la opción de "committed main" y luego "fetch"
 
 
