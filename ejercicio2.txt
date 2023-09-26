@@ -1,2 +1,3 @@
-Para clonar el archivo local al remoto utilizo la opción "add" y seguidamente selecciono el archivo que deseo clonar, en este caso "ejercicio1"
+Para clonar el archivo local al remoto utilizo la opción de
+
 
